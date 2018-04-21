@@ -45,6 +45,12 @@ String pass = "1234";
       <TR>
         <TH class='th_basic'>NO</TH>
         <TH class='th_basic'>내용2</TH>
+
+
+
+
+
+
         <TH class='th_basic'>성명</TH>
         <TH class='th_basic'>등록일</TH>
         <TH class='th_basic'>기타</TH>
